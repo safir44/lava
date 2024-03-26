@@ -154,3 +154,4 @@ error code: 1015
 {"jsonrpc":"2.0","id":1,"result":"0x599c6e8b6"}
 {"error":"{\"Error_GUID\":\"2005060223947486835\",\"Error\":\"Failed all retries {GUID:2005060223947486835,error:No pairings available.,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x6fdf6b644"}
+{"jsonrpc":"2.0","id":1,"result":"0x5ffa4be30"}
