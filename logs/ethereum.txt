@@ -220,3 +220,4 @@ error code: 1015
 {"jsonrpc":"2.0","id":1,"result":"0xc6178c680"}
 {"error":"{\"Error_GUID\":\"8242278977521646094\",\"Error\":\"Failed all retries {GUID:8242278977521646094,error:No pairings available.,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0xf62bbd8f8"}
+{"jsonrpc":"2.0","id":1,"result":"0xa4ae883c1"}
